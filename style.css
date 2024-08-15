@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(Imagenes/Cancha\ s.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(Imagenes/Cancha\s.jpe);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -390,7 +390,7 @@ h2 {
 
 
 .bg-sec {
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0, 0.7)), url(Imagenes/Mixto\ Final.jpeg);
+background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0, 0.7)), url(Imagenes/All\stars\trofeos.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
